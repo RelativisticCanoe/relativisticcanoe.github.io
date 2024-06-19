@@ -1,7 +1,3 @@
----
-title: James Brady's Portfolio
-filename: README.md
----
 
 # Look Mum, I'm on the Internet!
 
