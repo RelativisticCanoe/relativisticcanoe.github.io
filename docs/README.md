@@ -7,4 +7,4 @@ These are the works that I feel best represent my abilities:
 - Celestial Object Catalogue: A C++ program to catalogue celestial objects, submitted as a final assignment for the module mentioned above.
 - Optical Simulations of Cherenkov Radiation: The first report for my final-year MPhys project.
 
-All of these projects can be cloned from my [GitHub repo](https://github.com/RelativisticCanoe/portfolio_documents) or [downloaded as a .zip folder](/assets/portfolio_documents.zip) for your consideration.
+All of these projects can be cloned from my [GitHub repo](https://github.com/RelativisticCanoe/portfolio_documents) or [downloaded as a .zip folder](./assets/portfolio_documents.zip) for your consideration.
